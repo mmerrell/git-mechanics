@@ -11,8 +11,10 @@ I'm going to just keep doing this until I get the hang of it. I also have questi
 What is the difference between "git add . {I am editing something in the middle of the page}" and "git commit -a" <---this one keeps sending me to vim
 
 **Question 2**
-Do I have to push every commit? OR can I keep committing things and then push them at the end of the day? I guess not because they might conflict? Let me try it I guess.
+Do I have to push every commit? OR can I keep committing {I am changing something and then committing} things and then push them at the end of the day? I guess not because they might conflict? Let me try it I guess.
 
 I think this line might break something
 
 Ok well it didn't break anything. Now I'm going to go edit something at the top of the page and see if that breaks it.
+
+Trying this again but I'm going to change something in the middle of the page and commit it and then change it back and commit it and THEN push.
