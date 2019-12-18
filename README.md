@@ -11,4 +11,6 @@ I'm going to just keep doing this until I get the hang of it. I also have questi
 What is the difference between "git add . " and "git commit -a" <---this one keeps sending me to vim
 
 **Question 2**
-Do I have to push every commit? OR can I keep committing things and then push them at the end of the day? I guess not because they might conflict? Let me try it I guess. 
+Do I have to push every commit? OR can I keep committing things and then push them at the end of the day? I guess not because they might conflict? Let me try it I guess.
+
+I think this line might break something
